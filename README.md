@@ -1,1 +1,1 @@
-# Passport-OpenID Connect Mod
+# Passport-OpenID Connect Module
